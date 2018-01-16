@@ -1,0 +1,6 @@
+= Svobodný vysílač
+
+LRC texty k pořadům z archivu Svobodného vysílače -- http://www.svobodny-vysilac.cz/[]
+
+Pokusy s doplňováním zvukového archivu o textovou kostru s tématy a časy.
+Testováno s AIMP od verze 4.50, která začala v základu podporovat zobrazování LRC souborů.
